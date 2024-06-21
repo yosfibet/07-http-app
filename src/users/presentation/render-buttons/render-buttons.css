@@ -1,0 +1,12 @@
+
+
+button {
+  margin: 15px;
+}
+
+#current-page {
+  font-size: 1.2rem;
+  color: grey !important;
+  margin-right: 10px;
+  margin-left: 10px;
+}
